@@ -6,4 +6,6 @@ Repositorio para proyecto integrador Modulo Programador
 
 - Santiago Dupetit
 
+-Paola Daniela Villafane
+
 ### Año:2023
