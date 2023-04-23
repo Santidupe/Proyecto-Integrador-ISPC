@@ -1,9 +1,9 @@
 # Proyecto-Integrador-ISPC
 Repositorio para proyecto integrador Modulo Programador
 
-Participantes:
-Ramiro Julián Fábrega
+## Participantes:
+- Ramiro Julián Fábrega
 
-Santiago Dupetit
+- Santiago Dupetit
 
-Año:2023
+### Año:2023
