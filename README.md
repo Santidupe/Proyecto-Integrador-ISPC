@@ -1,30 +1,42 @@
-![1636059224544](https://github.com/Sofiortiz/Proyecto-Integrador-2023/assets/86580762/1e3ceecf-3574-4220-90a5-a0c3b9b1b800)
+## **Consigna**: 
+
+La empresa *“Dispositivos inteligentes SRL”*, nos ha pedido realizar un sistema que registre los nodos de IoT que están desarrollando.
+Necesitan poder almacenar los mismos diferenciados por modelo, ubicación, y en un futuro almacenar los datos que envían.
+
+Se debe realizar un ABM que permita, ingresar, modificar y eliminar un dispositivo. Los dispositivos deben contener los siguientes datos:
+
+    • Modelo
+
+    • Número de serie
+
+    • Dirección de instalación
+
+    • Fecha de instalación
+
+    • Coordenadas
+
+    • Estado del mismo(Operativo, Sin conexión, Baja batería, etc.)
 
 
-# <h1 align=center>Proyecto Integrador 2023</h1>
+Además, se solicita la creación de los siguientes reportes:
 
-Este proyecto integrador se desarrolla en el marco del módulo de *Programador*, el cual consta de tres materias:
+    • Listado de dispositivos totales.
 
-- Programación - Prof.: Lisandro Noel Lanfranco 
-- Base de datos - Prof.: Kevin Arce Kessler
-- Ética y deontologia profesional - Prof.: Natalia Farini
+    • Listado de dispositivos por tipo.
 
-## Objetivos del modulo
+    • Listado de dispositivos por estado.
 
-Brindar los conceptos y herramientas de programación para aplicarlos a situaciones reales vinculadas con el desarrollo de problemas de la aplicación de la cotidianeidad. 
+Se debe realizar el registro y consulta de información con un programa por consola en Python desde una base de datos para persistir los datos.
 
-Adquirir y desarrollar destrezas en la resolución de problemas concretos aplicando el paradigma orientado a objetos mediante el lenguaje Python.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Requisitos:
 
-Adquirir y desarrollar conceptos en el diseño, administración e implementación de Bases de Datos relacionales.
+Para poder utilizar y ejecutar el sistema de registro y consulta de dispositivos IoT, se requiere contar con los siguientes elementos:
 
-Conocer e identificar el marco normativo profesional. Comprender la importancia de la ética profesional y fomentar las buenas practicas en base a ella.# Proyecto-Integrador-ISPC
-Repositorio para proyecto integrador Modulo Programador
+**Python:** El lenguaje de programación principal utilizado en el desarrollo del proyecto. Asegúrate de tener instalado Python en tu sistema. Puedes descargarlo desde el sitio web oficial de Python (https://www.python.org) y seguir las instrucciones de instalación correspondientes a tu sistema operativo.
 
-## Participantes:
-- Ramiro Julián Fábrega
+**MySQL:** Un sistema de gestión de bases de datos relacionales utilizado para almacenar y persistir los datos del sistema. Debes asegurarte de tener instalado MySQL en tu entorno. Puedes descargar MySQL desde el sitio web oficial de MySQL (https://dev.mysql.com/downloads/installer) y seguir las instrucciones de instalación adecuadas para tu sistema operativo.
 
-- Santiago Dupetit
+Es importante mencionar que deberás configurar y tener acceso a una base de datos MySQL para poder almacenar la información de los dispositivos IoT.
 
-- Paola Daniela Villafane
-
-### Año:2023
+Una vez que hayas instalado Python y MySQL, y hayas configurado la base de datos, podrás ejecutar el programa de registro y consulta de dispositivos IoT sin problemas.
