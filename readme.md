@@ -22,7 +22,6 @@ Conocer e identificar el marco normativo profesional. Comprender la importancia 
 Repositorio para proyecto integrador Modulo Programador
 
 Participantes:
-Ramiro Julián Fábrega
 
 Santiago Dupetit
 
